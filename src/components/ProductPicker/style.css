@@ -1,0 +1,10 @@
+.products__container {
+    /* display: grid;
+    grid-column: 3;
+    grid-template-columns: repeat(auto-fill, minmax(400px, 2fr));
+    column-gap: 30px; */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+ 
+}
